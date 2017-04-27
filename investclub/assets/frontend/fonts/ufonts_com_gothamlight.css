@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ufonts_com_gothamlight';
+    src: url('fonts/ufonts_com_gothamlight.eot');
+    src: url('fonts/ufonts_com_gothamlight.eot') format('embedded-opentype'),
+         url('fonts/ufonts_com_gothamlight.woff2') format('woff2'),
+         url('fonts/ufonts_com_gothamlight.woff') format('woff'),
+         url('fonts/ufonts_com_gothamlight.ttf') format('truetype'),
+         url('fonts/ufonts_com_gothamlight.svg#ufonts_com_gothamlight') format('svg');
+}
