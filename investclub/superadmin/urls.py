@@ -3,7 +3,8 @@ from superadmin.views import home
 
 urlpatterns = [
     url(r'^$', home.index),
-	url(r'homepage/$', home.homepage),
+    url(r'login/$', home.login),
+	url(r'homepage/', home.homepage),
 	
 	]
 
